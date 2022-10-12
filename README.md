@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Tesla Landing Page 👋</h1>
 <p>
-  <a href="Nothing much to see here, unless you want to just look at inexperienced code. ¯\_( ͡° ͜ʖ ͡°)_/¯" target="_blank">
+  <a href="" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://twitter.com/Ernest\_Owolabi" target="_blank">
@@ -9,6 +9,7 @@
 </p>
 
 > Just testing out some tailwind css properties. Plus, who doesn't like Tesla ^_+
+> Nothing much to see here, unless you want to just look at inexperienced code. ¯\_( ͡° ͜ʖ ͡°)_/¯
 
 ## Author
 
